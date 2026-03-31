@@ -2,7 +2,7 @@
 
 A platform that connects schools with funding through anonymous student surveys. Students complete surveys about consumer preferences and habits, generating anonymized datasets that companies can purchase — with proceeds going directly back to participating schools.
 
-Built for the **2024 Congressional App Challenge**.
+Built for the **2025 Congressional App Challenge**.
 
 ## How It Works
 
