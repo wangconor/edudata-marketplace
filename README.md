@@ -13,6 +13,10 @@ Built for the **2024 Congressional App Challenge**.
 5. Companies purchase the anonymized school-level datasets
 6. Revenue flows back to the school
 
+## Demo
+
+[![EduData Marketplace Demo](https://img.youtube.com/vi/Ba3RHEfCmhw/0.jpg)](https://youtu.be/Ba3RHEfCmhw)
+
 ## Repository Structure
 
 ```
